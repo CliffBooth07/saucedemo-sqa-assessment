@@ -2,6 +2,12 @@
 
 This repository contains a focused Selenium + Python automation slice for the SauceDemo application, along with the assessment notes in [`docs/assessment.md`](docs/assessment.md).
 
+Public repository: https://github.com/CliffBooth07/saucedemo-sqa-assessment
+
+Final single-document report: [`SauceDemo-SQA-Assessment.pdf`](SauceDemo-SQA-Assessment.pdf)
+
+Evidence is stored under [`artifacts/`](artifacts/), and the report links each file to its corresponding defect.
+
 ## Prerequisites
 
 - Python 3.10+
